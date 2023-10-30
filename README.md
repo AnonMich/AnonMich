@@ -2,6 +2,6 @@
 - 👋 CIao, sono @AnonMich                                                
 - 👀 Mi piace sviluppare in Java, python, shell e molto altro
 - 🌱 ora sto imparanto JavaFX
-- 💞️ Vorrei collaborare con @0day
+- 💞️ Vorrei collaborare con @0dayCTF
 - 📫 Per info questa è la mia mail personale, michael-lerose@proton.me
 --------------------------------------------------------------------------
